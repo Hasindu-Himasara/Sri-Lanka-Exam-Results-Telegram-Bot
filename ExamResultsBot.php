@@ -1,5 +1,5 @@
 <?php
-$token = 'BOT_TOKEN';
+$token = '2080924626:AAE-_tHwgNDLGPsQIYCoCotpYrrEq_5hmng';
 $img = 'BOT_IMG';
 
 $input = file_get_contents('php://input');
